@@ -1,8 +1,7 @@
 "use client";
 
-import Image from "next/image";
 import useUser from "./hooks/useUser";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import { useRouter } from "next/navigation";
 import React from "react";
 import { v4 as uuidv4 } from "uuid"; 
