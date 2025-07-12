@@ -1,0 +1,9 @@
+{
+  "rewrites": [
+    {
+      "source": "/room/(.*)",
+      "destination": "/"
+    }
+  ]
+}
+
