@@ -86,7 +86,7 @@ export default function Home() {
                   className="text-lg font-medium hover:text-blue-400 hover:underline"
                   onClick={handleCreateNewMeeting} // Using the new handler function
                 >
-                  Or create new meeting
+                  Or Create new meeting
                 </button>
               </div>
             </>
@@ -96,3 +96,4 @@ export default function Home() {
     </div>
   );
 }
+
